@@ -1,0 +1,8 @@
+node_modules
+artifacts
+cache
+coverage*
+gasReporterOutput.json
+gas-report.txt
+.env
+README.md
